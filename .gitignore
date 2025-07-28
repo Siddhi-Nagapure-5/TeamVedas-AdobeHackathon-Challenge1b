@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+adobe_env/
+
+# Ignore model files
+models/

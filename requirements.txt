@@ -1,0 +1,10 @@
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+transformers
+sentence-transformers==2.2.2
+tqdm
+numpy
+scikit-learn
+torch==2.0.1+cpu
